@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Mussarela', img:'images/pizza.png', price:19.99, sizes:['100g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adip literally nulla fac sapien sed diam nonumy eirmod tempor incididunt ut labore et'},
+    {id:2, name:'Calabresa', img:'images/pizza2.png', price:19.00, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adip literally nulla fac sapien sed diam nonumy eirmod tempor incididunt ut labore et'},
+    {id:3, name:'Quatro Queijos', img:'images/pizza3.png', price:17.45, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adip literally nulla fac sapien sed diam nonumy eirmod tempor incididunt ut labore et'},
+    {id:4, name:'Americana', img:'images/pizza4.png', price:19.77, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adip literally nulla fac sapien sed diam nonumy eirmod tempor incididunt ut labore et'},
+    {id:5, name:'Sorvete', img:'images/pizza5.png', price:19.99, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adip literally nulla fac sapien sed diam nonumy eirmod tempor incididunt ut labore et'},
+    {id:6, name:'Moda da Casa', img:'images/pizza6.png', price:18.55, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adip literally nulla fac sapien sed diam nonumy eirmod tempor incididunt ut labore et'},
+    {id:7, name:'Chocolate', img:'images/pizza7.png', price:19.99, sizes:['320g', '530g', '860g'], description:'Lorem ipsum dolor sit amet, consectetur adip literally nulla fac sapien sed diam nonumy eirmod tempor incididunt ut labore et'}
+];
