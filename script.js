@@ -74,3 +74,5 @@ selectorAll('.pizzaInfo--size').forEach((size, index) => {
         size.classList.add('selected');
     });
 });
+
+//Teste
